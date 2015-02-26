@@ -1,0 +1,4 @@
+[submodule "ext/pdf.js"]
+	path = ext/pdf.js
+	url = https://github.com/jpambrun/pdf.js.git
+	branch = jpx-medical
